@@ -27,7 +27,7 @@ namespace NecroBotCoordChanger
                 if (checkPokemonExec(textBox1.Text) == true)
                 {
                     label2.ForeColor = Color.LimeGreen;
-                    label2.Text = "FOUNDED!";
+                    label2.Text = "FOUND!";
                 }
             }
         }
