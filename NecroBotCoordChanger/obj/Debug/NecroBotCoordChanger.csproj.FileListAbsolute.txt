@@ -1,0 +1,9 @@
+d:\users\r9280\documents\visual studio 2015\Projects\NecroBotCoordChanger\NecroBotCoordChanger\bin\Debug\NecroBotCoordChanger.exe.config
+D:\Users\R9280\Documents\Visual Studio 2015\Projects\NecroBotCoordChanger\NecroBotCoordChanger\bin\Debug\NecroBotCoordChanger.exe
+D:\Users\R9280\Documents\Visual Studio 2015\Projects\NecroBotCoordChanger\NecroBotCoordChanger\bin\Debug\NecroBotCoordChanger.pdb
+D:\Users\R9280\Documents\Visual Studio 2015\Projects\NecroBotCoordChanger\NecroBotCoordChanger\obj\Debug\NecroBotCoordChanger.csprojResolveAssemblyReference.cache
+D:\Users\R9280\Documents\Visual Studio 2015\Projects\NecroBotCoordChanger\NecroBotCoordChanger\obj\Debug\NecroBotCoordChanger.Form1.resources
+D:\Users\R9280\Documents\Visual Studio 2015\Projects\NecroBotCoordChanger\NecroBotCoordChanger\obj\Debug\NecroBotCoordChanger.Properties.Resources.resources
+D:\Users\R9280\Documents\Visual Studio 2015\Projects\NecroBotCoordChanger\NecroBotCoordChanger\obj\Debug\NecroBotCoordChanger.csproj.GenerateResource.Cache
+D:\Users\R9280\Documents\Visual Studio 2015\Projects\NecroBotCoordChanger\NecroBotCoordChanger\obj\Debug\NecroBotCoordChanger.exe
+D:\Users\R9280\Documents\Visual Studio 2015\Projects\NecroBotCoordChanger\NecroBotCoordChanger\obj\Debug\NecroBotCoordChanger.pdb

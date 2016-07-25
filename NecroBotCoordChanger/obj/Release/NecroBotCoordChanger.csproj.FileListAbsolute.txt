@@ -1,0 +1,8 @@
+D:\Users\R9280\Documents\Visual Studio 2015\Projects\NecroBotCoordChanger\NecroBotCoordChanger\bin\Release\NecroBotCoordChanger.exe.config
+D:\Users\R9280\Documents\Visual Studio 2015\Projects\NecroBotCoordChanger\NecroBotCoordChanger\bin\Release\NecroBotCoordChanger.exe
+D:\Users\R9280\Documents\Visual Studio 2015\Projects\NecroBotCoordChanger\NecroBotCoordChanger\bin\Release\NecroBotCoordChanger.pdb
+D:\Users\R9280\Documents\Visual Studio 2015\Projects\NecroBotCoordChanger\NecroBotCoordChanger\obj\Release\NecroBotCoordChanger.Form1.resources
+D:\Users\R9280\Documents\Visual Studio 2015\Projects\NecroBotCoordChanger\NecroBotCoordChanger\obj\Release\NecroBotCoordChanger.Properties.Resources.resources
+D:\Users\R9280\Documents\Visual Studio 2015\Projects\NecroBotCoordChanger\NecroBotCoordChanger\obj\Release\NecroBotCoordChanger.csproj.GenerateResource.Cache
+D:\Users\R9280\Documents\Visual Studio 2015\Projects\NecroBotCoordChanger\NecroBotCoordChanger\obj\Release\NecroBotCoordChanger.exe
+D:\Users\R9280\Documents\Visual Studio 2015\Projects\NecroBotCoordChanger\NecroBotCoordChanger\obj\Release\NecroBotCoordChanger.pdb
